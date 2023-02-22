@@ -1,2 +1,2 @@
 # Random-Quote-Machine
-Random Quote Machine by Kato Desire
+[Random_Quote_Machine] by Kato Desire
